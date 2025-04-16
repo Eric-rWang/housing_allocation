@@ -1,4 +1,4 @@
-# housing_allocation
+# Housing Allocation Problem
 
 We presents an implementation of the Top
 Trading Cycle (TTC) algorithm, a method for achieving Pareto
